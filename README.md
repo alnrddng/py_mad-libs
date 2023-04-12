@@ -1,7 +1,7 @@
 # madlibs
 
 ## Description
-A mad lib project to refresh the basics. Based on the Kylie Ying tutorial at https://www.youtube.com/watch?v=8ext9G7xspg&t=100s.
+A mad lib project to refresh the basics.
 
 As a basics refresher this project helped me to re-learn string concantenation, defining variables, and utilizing functions to accomplish a singular goal.
 
@@ -24,8 +24,8 @@ Run the mad lib using 'python3 main.py'. No additional steps are necessary.
 
 ## Credits
 
-Ying, K. (2021) *12 Beginner Python Projects - Coding Course*. 
-    [https://www.youtube.com/watch?v=8ext9G7xspg&t=100s](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)
+Ying, K. (2021) *12 Beginner Python Projects - Coding Course*.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.youtube.com/watch?v=8ext9G7xspg&t=100s](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)
 
 ## License
 
