@@ -6,7 +6,6 @@ A mad lib project to refresh the basics.
 As a basics refresher this project helped me to re-learn string concantenation, defining variables, and utilizing functions to accomplish a singular goal.
 
 ## Table of Contents (Optional)
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -23,12 +22,10 @@ No installation is required. This project utilizes basic Python functionality.
 Run the mad lib using 'python3 main.py'. No additional steps are necessary.
 
 ## Credits
-
 Ying, K. (2021) *12 Beginner Python Projects - Coding Course*.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.youtube.com/watch?v=8ext9G7xspg&t=100s](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)
 
 ## License
-
 [MIT](LICENSE)
 
 ## Badges
@@ -37,7 +34,7 @@ Ying, K. (2021) *12 Beginner Python Projects - Coding Course*.<br />
 ## Features
 The project consists of two functions, one to gather user input and the other to desplay the madlib.
 
-## Contribute
+## Contribut
 Help me get better by creating a new issue on the repository.
 
 ## Tests

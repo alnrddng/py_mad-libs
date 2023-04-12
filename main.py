@@ -22,7 +22,7 @@ def get_user_input():
     return [adj, verb1, verb2, famous_person]
 
 def main():
-    ''' display the results of the madlib '''
+    ''' display the results of the mad lib '''
 
     madlib_input = get_user_input()
 
