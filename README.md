@@ -32,7 +32,7 @@ Ying, K. (2021) *12 Beginner Python Projects - Coding Course*.<br />
 [MIT](LICENSE)
 
 ## Badges
-[python_100](https://img.shields.io/badge/Python-%23100daysofcode-green)
+!\[python_100\](https://img.shields.io/badge/Python-%23100daysofcode-green)
 
 ## Features
 The project consists of two functions, one to gather user input and the other to desplay the madlib.
