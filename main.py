@@ -19,9 +19,7 @@ def get_user_input():
     verb2 = str(input("Verb: "))
     famous_person = str(input("Famous Person: "))
 
-    madlib_input = [adj, verb1, verb2, famous_person]
-
-    return madlib_input
+    return [adj, verb1, verb2, famous_person]
 
 def main():
     ''' display the results of the madlib '''
